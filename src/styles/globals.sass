@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora')
+@import url('https://fonts.googleapis.com/css2?family=Arimo')
+// @import url('https://fonts.googleapis.com/css2?family=Futura')
+
+@import 'variables'
+
+html,
+body
+  //  overflow-x: hidden
+  font-family: Arimo
+  //  font-size: clamp(14px, 1vw, 1vw) !important
+  font-size: max(14px, 1vw)
+
+h1
+  //  font-size: clamp(35px, 4vw, 4vw) !important
+  font-size: max(35px, 4vw)
+  font-weight: 700
+  letter-spacing: 0.5rem
+h2
+  //  font-size: clamp(25px, 3vw, 3vw) !important
+  font-size: max(25px, 3vw)
+  letter-spacing: 0.5rem
+h3
+  //  font-size: clamp(20px, 2.5vw, 2.5vw) !important
+  font-size: max(20px, 2.5vw)
+  letter-spacing: 0.25rem
+
+p
+  letter-spacing: 0.15rem
+
+body
+  background: $blue
+  padding-bottom: 2.5em
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+a
+  color: white
+
+.active_link
+  color: black !important
+
+.img_cont
+  overflow: hidden
+
+  position: relative
+  &:after
+    content: ''
+    position: absolute
+    inset: 0 
+
+
+  & > img
+    animation: scale 2.5s infinite alternate linear
+    @keyframes #{scale}
+      0%
+        transform: scale(1)
+      100%
+        transform: scale(1.1)
+    
+  & > *
+    transition: transform .5s
+  &:hover
+    & + h3
+      color: $blue
+    &:after
+      background: rgba(black, 0.25)
+    & > img
+      animation-play-state: paused
+      //  transform: scale(1.1)

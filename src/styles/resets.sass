@@ -1,0 +1,146 @@
+*,
+*::before,
+*::after
+  box-sizing: border-box // Include borders & padding within size
+
+body,
+h1,
+h2,
+h3,
+p
+  margin: 0
+
+body
+  scroll-behavior: smooth
+  scroll-padding-top: 5em
+  line-sizing: normal  // Consistent line-spacing, even when inline elements have different line-heights.
+  text-rendering: optimizeSpeed
+  line-height: 1.6
+  min-width: 100vw
+  min-height: 100vh
+  overflow-x: hidden
+
+// img,
+// a
+//   display: block
+
+a
+  text-decoration: none
+  display: block
+
+[type="submit"],
+[type="email"],
+[type="tel"],
+[type="passowrd"],
+[type="number"],
+input:not([type]),
+[type="date"],
+select,
+textarea
+  display: block
+  width: 100%
+  margin: 0
+  padding: 0
+  &:focus
+    outline: none
+
+select
+  appearance: none
+
+label
+  display: block
+
+input,
+button,
+textarea,
+select
+  font: inherit
+
+// h1,
+// h2,
+// h3,
+// p
+//   max-width: 80ch
+
+// }}}
+
+// [hidden]
+//   display: none
+
+// img, svg, video, canvas, audio, iframe, embed, object
+//   display: block
+//   vertical-align: middle
+//   max-width: 100%
+
+img
+  display: block
+  max-width: 100%
+
+// img, svg, video, canvas
+//   height: auto
+
+// audio:not([controls])
+//   display:none
+
+// img
+//   border-style: none
+
+// svg
+//   overflow: hidden
+
+// article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section
+//   display: block
+
+[type='checkbox'],
+[type='radio']
+  margin-right: 0.5em
+  transform: scale(1.25)
+  // padding: 0
+
+// body,
+// h1,
+// h2,
+// h3,
+// h4,
+// h5,
+// p,
+// figure,
+// blockquote,
+// dl,
+// dd
+//   margin: 0
+
+// ul[role='list'],
+// ol[role='list']
+//   list-style: none
+
+// html:focus-within
+//   scroll-behavior: smooth
+
+// h1,
+// h2,
+// h3
+//   line-height: 1.1
+
+// @media (prefers-reduced-motion: reduce)
+//    html:focus-within
+//       scroll-behavior: auto
+//    *,
+//    *::before,
+//    *::after
+//       animation-duration: 0.01ms !important
+//       animation-iteration-count: 1 !important
+//       transition-duration: 0.01ms !important
+//       scroll-behavior: auto !important
+
+iframe
+  width: 100%
+  height: 100%
+  border: 0
+
+textarea
+  resize: none
+  width: 100%
+
+p + p
+  margin-top: 1em

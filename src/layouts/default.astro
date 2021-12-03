@@ -1,0 +1,39 @@
+---
+import "../styles/resets.sass";
+import "../styles/globals.sass";
+import "../styles/utils.sass";
+
+import Navbar from '../components/sub_components/Navbar.svelte';
+import Preloader from '../components/sub_components/Preloader.svelte';
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link rel="stylesheet" href="/fonts/Porter_Bold_DEMO/stylesheet.css">
+
+    <script
+      src="https://kit.fontawesome.com/24890fb8de.js"
+      crossorigin="anonymous"
+    ></script>
+    <script src="/scripts/fslightbox.js"></script>
+
+    <script src="/scripts/main.js" type="module" defer></script>
+
+    <title>Mostafiz Uddin</title>
+    <meta name="description" content="Portfolio site of Mostafiz Uddin" />
+    <link rel="shortcut icon" href="/images/favicon.ico" />
+  </head>
+
+  <body>
+    <main>
+      <Preloader></Preloader>
+      <Navbar />
+      <slot />
+    </main>
+  </body>
+
+</html>

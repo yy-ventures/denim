@@ -1,0 +1,93 @@
+@import 'variables'
+
+// grid{{{
+.grid
+  display: grid
+  grid-gap: 2.5em
+  // @media (min-width: 601px)
+  //   grid-auto-flow: column
+
+  &.two
+    @media (min-width: 601px)
+      grid-template-columns: 1fr 1fr
+  &.three
+    @media (min-width: 601px)
+      grid-template-columns: repeat(3, 1fr)
+  &.four
+    @media (min-width: 601px)
+      grid-template-columns: repeat(4, 1fr)
+// }}}
+// center{{{
+.center
+  display: flex
+  flex-direction: column
+  justify-content: center
+  align-items: center
+// }}}
+
+.overlay
+  position: relative
+  z-index: 1
+  &:after
+    content: ''
+    position: absolute
+    inset: 0
+    background: rgba($blue, 0.5)
+    z-index: -1
+
+.background
+  position: absolute
+  top: 0
+  z-index: -1
+  height: 100%
+  width: 100%
+  object-fit: cover
+
+.underline
+  &:after
+    content: ''
+    display: block
+    width: 25%
+    margin: 0 auto
+    height: 0.10em
+    background: currentColor
+    margin-top: 0.5em
+
+.center_z
+  position: absolute
+  top: 50%
+  left: 50%
+  transform: translate(-50%, -50%)
+  z-index: 9
+
+
+
+.faded_out
+  opacity: 0
+  transition: opacity .5s linear
+  transition-delay: calc(var(--delay) * 1s)
+
+.fade_in
+  opacity: 1
+
+
+.moved_right,
+.moved_left,
+.moved_down,
+.moved_up
+  opacity: 0
+  transition: transform .5s linear,  opacity .5s linear
+  transition-delay: calc(var(--delay) * 1s)
+
+.moved_up
+  transform: translate(0, -25%)
+.moved_down
+  transform: translate(0, 25%)
+.moved_right
+  transform: translate(25%, 0)
+.moved_left
+  transform: translate(-25%, 0)
+
+.move_back
+  transform: translate(0)
+  opacity: 1
