@@ -72,6 +72,10 @@ lightbox.props.sources = [
   '/images/news_7.jpg',
   '/images/news_8.jpg',
   '/videos/bbc.mp4',
+  '/images/news_9.jpg',
+  '/images/news_10.jpg',
+  '/images/news_11.jpg',
+  '/images/news_12.jpg'
 ];
 
 doms('#news .grid *').forEach((dom) => {

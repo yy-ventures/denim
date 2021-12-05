@@ -26,6 +26,14 @@
           img.contact_background(src="/images/optimized/news_8.jpg")
         .img_cont.moved_right(style="--delay: 1")
           img.contact_background(src="/videos/bbc.jpg")
+        .img_cont.moved_right(style="--delay: 0.75")
+          img.contact_background(src="/images/optimized/news_9.jpg")
+        .img_cont.moved_right(style="--delay: 0.75")
+          img.contact_background(src="/images/optimized/news_10.jpg")
+        .img_cont.moved_right(style="--delay: 0.75")
+          img.contact_background(src="/images/optimized/news_11.jpg")
+        .img_cont.moved_right(style="--delay: 0.75")
+          img.contact_background(src="/images/optimized/news_12.jpg")
 
 </template>
 
