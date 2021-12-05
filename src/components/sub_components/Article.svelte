@@ -50,6 +50,7 @@
         text-align: end
         /*  font-size: clamp(18px, 1.5vw, 1.5vw)  */
         font-size: max(18px, 1.5vw)
+        padding-bottom: 10%
 
       & > *
         * + *

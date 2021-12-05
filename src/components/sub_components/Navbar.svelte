@@ -20,10 +20,10 @@
       a(href="/contact")
         p.moved_down(style="--delay: 2") CONTACT
       .socials.moved_right(style="--delay: 2.25")
-          a(class="fab fa-instagram" href="#" target="_blank" rel="noopener noreferrer")
-          a(class="fab fa-linkedin-in" href="#" target="_blank" rel="noopener noreferrer")
-          a(class="fab fa-facebook-f" href="#" target="_blank" rel="noopener noreferrer")
-          a(class="fab fa-twitter" href="#" target="_blank" rel="noopener noreferrer")
+          a(class="fab fa-instagram" href="https://www.instagram.com/mostafizuddin/" target="_blank" rel="noopener noreferrer")
+          a(class="fab fa-linkedin-in" href="https://www.linkedin.com/in/mostafizuddin/ " target="_blank" rel="noopener noreferrer")
+          a(class="fab fa-facebook-f" href="https://www.facebook.com/profile.php?id=677296799" target="_blank" rel="noopener noreferrer")
+          a(class="fab fa-twitter" href="https://www.linkedin.com/in/mostafizuddin/ " target="_blank" rel="noopener noreferrer")
 </template>
 
 <style lang="sass">

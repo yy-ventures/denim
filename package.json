@@ -5,17 +5,18 @@
     "build": "astro build"
   },
   "devDependencies": {
-    "@babel/preset-env": "^7.14.8",
+    "@babel/preset-env": "^7.16.4",
     "@snowpack/plugin-babel": "^2.1.7",
     "@snowpack/plugin-postcss": "^1.4.3",
     "@snowpack/plugin-webpack": "^3.0.0",
-    "astro": "^0.18.4",
-    "cssnano": "^5.0.7",
-    "postcss-normalize": "^10.0.0",
+    "astro": "^0.18.13",
+    "cssnano": "^5.0.12",
+    "postcss-normalize": "^10.0.1",
     "postcss-preset-env": "^6.7.0",
     "pug": "^3.0.2",
-    "sass": "^1.36.0",
-    "snowpack": "^3.8.3",
-    "snowpack-plugin-inliner": "^1.0.2"
+    "sass": "^1.44.0",
+    "snowpack": "^3.8.8",
+    "snowpack-plugin-inliner": "^1.0.3",
+    "webpack": "^5.64.4"
   }
 }

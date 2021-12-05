@@ -23,7 +23,7 @@
 
       article.faded_out(style="--delay: 1.5")
         p My endless passion for denim has pushed me to develop several channels which are feeding one each other.
-        p Production know-how, Technology savvy mindset doubled with ethical development vision, market intelligence and idustry network !
+        p Production know-how, technology savvy mindset doubled with ethical development vision, market intelligence and industry network !
         p Mostafiz Uddin
 
       img.background(src="/images/optimized/home_background.jpg")   

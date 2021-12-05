@@ -6,7 +6,7 @@
   #create_post_header
     Background(image="create_post_header")
       .texts.faded_out(style="--delay: 0.5")
-        h5 I have created Denim Expert Limited a place where denim lovers meet, work on products, washes and build the best jeans imaginable. We have the know-how, the technology, the expertise, and skilled personnel, necessary to provide a one-stop service for our customer’s needs. We ensure that the people who make our products, work in a safe environment and treated with dignity and respect and we hope to set a benchmark for others to follow within the industry!
+        h5 I have created Denim Expert Limited a place where denim lovers meet, work on products, washes and build the best jeans imaginable. We have the know-how, the technology, the expertise, and skilled personnel, necessary to provide a one-stop service for our customers' needs. We ensure that the people who make our products, work in a safe environment and treated with dignity and respect and we hope to set a benchmark for others to follow within <br/> the industry!
         h5 Mostafiz Uddin
         h5 Managing Director
         h5 Denim Expert Limited

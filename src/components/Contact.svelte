@@ -8,7 +8,7 @@
     .container
       Title(content="contact")
       h5.faded_out(style="--delay: 1.5") mostafiz@denimexpert.com
-      h5.faded_out(style="--delay: 2") www.denimmostafiz.com
+      //- h5.faded_out(style="--delay: 2") www.denimmostafiz.com
 </template>
 
 <style lang="sass">
