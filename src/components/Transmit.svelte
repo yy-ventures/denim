@@ -9,7 +9,7 @@
       Title(content="transmit")
     Title(content="bangladesh denim times")
     Background(image="transmit_post_header")
-      p.faded_out(style="--delay: 0.5") Bangladesh Denim Times is one of Mostafiz Uddin's denim-dreams that come true. Whether it is through its printed version, on Instagram or Facebook, he shares everything denim. He believes that talking about denim all day, dreaming about denim all night, thinking and breathing denim. When he is not in the factory, he is at trade fairs in Holland, or meeting designers in France… . So, it was natural to gather all those precious encounters in one. The Bangladesh Denim Times is the embodiment of that ‘one’. It covers inter alia denim trends, technology, innovation, market watch, sustainability, circularity and what not related to denim! 
+      p.faded_out(style="--delay: 0.5") Bangladesh Denim Times is one of Mostafiz Uddin's denim-dreams that came true. Whether it is through its printed version, on Instagram or Facebook, he shares everything denim. He believes in talking about denim all day, dreaming about denim all night, thinking and breathing denim. When he is not in the factory, he is at trade fairs in Holland, or meeting designers in France… . So, it was natural to gather all those precious encounters in one. The Bangladesh Denim Times is the embodiment of that ‘one’. It covers inter alia denim trends, technology, innovation, market watch, sustainability, circularity and what not related to denim! 
 
     Background(image="transmit_footer")
       .grid.three

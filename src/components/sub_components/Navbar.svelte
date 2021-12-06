@@ -23,7 +23,7 @@
           a(class="fab fa-instagram" href="https://www.instagram.com/mostafizuddin/" target="_blank" rel="noopener noreferrer")
           a(class="fab fa-linkedin-in" href="https://www.linkedin.com/in/mostafizuddin/ " target="_blank" rel="noopener noreferrer")
           a(class="fab fa-facebook-f" href="https://www.facebook.com/profile.php?id=677296799" target="_blank" rel="noopener noreferrer")
-          a(class="fab fa-twitter" href="https://www.linkedin.com/in/mostafizuddin/ " target="_blank" rel="noopener noreferrer")
+          a(class="fab fa-twitter" href="https://twitter.com/mostafiz_uddin" target="_blank" rel="noopener noreferrer")
 </template>
 
 <style lang="sass">

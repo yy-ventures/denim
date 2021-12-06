@@ -82,6 +82,8 @@
         p
           margin-top: 3em !important
           font-size: max(16px, 0.1vw)
+          @media (min-width: 1441px)
+            font-size: max(18px, 1.2vw)
         img
           margin-top: 3em !important
 

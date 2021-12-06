@@ -14,7 +14,7 @@
   const header = {
     title: "bangladesh denim expo",
     paragraph:
-      "Mostafiz Uddin founded one of the largest denim fairs where international denim professionals meet. The Expo’s objective is to showcase Bangladesh’s growth potential in the denim industry. At the fair, Bangladesh’s exhibitors stand shoulder to shoulder with firms from Italy, Turkey, Japan, Pakistan and India among others. Bangladesh Denim expo is the place where Mostafiz acts like the pioneer of change, setting a new scene for how international buyers and brands see Bangladesh’s denim industry in the future",
+      "Mostafiz Uddin founded one of the largest denim fairs where international denim professionals meet. The Expo’s objective is to showcase Bangladesh’s growth potential in the denim industry. At the fair, Bangladesh’s exhibitors stand shoulder to shoulder with firms from Italy, Turkey, Japan, Pakistan and India, among others. Bangladesh Denim expo is the place where Mostafiz acts like the pioneer of change, setting a new scene for how international buyers and brands see Bangladesh’s denim industry in the future.",
   };
 </script>
 

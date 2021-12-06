@@ -32,11 +32,11 @@
           img(src="/images/optimized/training_n_development_2.jpg")
         div.moved_right(slot="last" style="--delay: 0.5")
           h3 Product samples are the face of the factory. 
-          p Product samples are the face of the factory. This is a major point Mostafiz teaches his team. If the first sample made for a customer is great, chances are the order will be placed with the factory. This philosophy is taught and trained by Mostafiz for all members of his team
+          p Product samples are the face of the factory. This is a major point Mostafiz teaches his team. If the first sample made for a customer is great, chances are the order will be placed with the factory. This philosophy is taught and trained by Mostafiz for all members of his team.
 
       Article
         div.moved_right(slot="first" style="--delay: 0.5")
-          h3 At any moment, Mostafiz tries to identify eventual product problems,
+          h3 At any moment, Mostafiz tries to identify eventual product problems.
           p When doing this, Mostafiz Uddin always focuses on pragmatic solutions, rather than commanding out of his office.
         div.moved_left(slot="last" style="--delay: 0.5")
           img(src="/images/optimized/training_n_development_3.jpg")

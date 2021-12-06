@@ -29,7 +29,7 @@
       Article
         div(slot="first")
           img.faded_out(src="/images/optimized/design_concepts_2.jpg" style="--delay: 0.5")
-          p.faded_out(style="--delay: 0.75") When needed special designs can be made matching to the market demands of his customers. These specific designs include all technical information, like fit, specs, trimmings, fabric, wash, and do include full technical files.
+          p.faded_out(style="--delay: 0.75") When needed, special designs can be made matching to the market demands of his customers. These specific designs include all technical information, like fit, specs, trimmings, fabric, wash, and do include full technical files.
         div(slot="last")
           h3.faded_out(style="--delay: 1") Once finished, these special designs and the trend-analysis, are made available to all customers.
           p.faded_out(style="--delay: 1.25") Mostafiz personally ensures great market and trend-relevance in his products, thanks to these designs. These special designs are made available to customers without any extra-cost.
