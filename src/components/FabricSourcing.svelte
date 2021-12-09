@@ -22,7 +22,7 @@
 
       Article
         div(slot="first")
-          h3.moved_down(style="--delay: 1") Many fabric Mills are invited to meet Mostafiz at his factory. 
+          h3.moved_down(style="--delay: 1") Many fabric mills are invited to meet Mostafiz at his factory. 
           p.moved_up(style="--delay: 1.25") They travel to Chittagong and present their latest fabric developments. Exchanging views about developments, developing fabrics, and sourcing the right product at the right price are true everyday business here.
         div(slot="last")
           img.faded_out(src="/images/optimized/fabric_sourcing_1.webp" style="--delay: 0.5")
