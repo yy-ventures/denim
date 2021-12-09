@@ -25,13 +25,13 @@
           h3.moved_down(style="--delay: 1") Mostafiz believes that this know-how is important for the Bangladesh denim industry. 
           p.moved_up(style="--delay: 1.25") He therefore spends a large amount of time sharing his fabric know-how with denim fabric manufacturers.
         div(slot="last")
-          img.faded_out(src="/images/optimized/fabric_innovation_1.jpg" style="--delay: 0.5")
+          img.faded_out(src="/images/optimized/fabric_innovation_1.webp" style="--delay: 0.5")
           h3.faded_out(style="--delay: 0.75") Japan-2001
 
 
       Article
         div.moved_left(slot="first" style="--delay: 0.5")
-          img(src="/images/optimized/fabric_innovation_2.jpg")
+          img(src="/images/optimized/fabric_innovation_2.webp")
           h3 China-2002
         div.moved_right(slot="last" style="--delay: 0.5")
           h3 The training and innovation part is very important here.
@@ -42,7 +42,7 @@
           h3 Developing fabrics for specific markets with adapted price-levels is key to all. 
           p There is no successful development without precise commercial targets. With his skills, Mostafiz provides precise direction.
         div.moved_left(slot="last" style="--delay: 0.5")
-          img(src="/images/optimized/fabric_innovation_3.jpg")
+          img(src="/images/optimized/fabric_innovation_3.webp")
           h3 Bangladesh-2014
 
 </template>

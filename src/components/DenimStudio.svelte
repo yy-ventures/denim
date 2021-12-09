@@ -39,7 +39,7 @@
 
       Article
         div.moved_right(slot="first" style="--delay: 0.5")
-          img(src="/images/optimized/denim_studio_4.jpg")
+          img(src="/images/optimized/denim_studio_4.webp")
         div.moved_left(slot="last" style="--delay: 0.5")
           h3 Wash innovation is an important added value to each client.
           p The studio is the place where Mostafiz Uddin shares his in-depth know-how of denim. One-on-one sessions with clients, team trainings, or larger seminars are held in the denim studio.
