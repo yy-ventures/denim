@@ -24,7 +24,7 @@
           h3.moved_down(style="--delay: 0.75") These trends are then transformed into sharp product design, which Mostafiz likes to do himself. 
           p.moved_up(style="--delay: 1") These trend reports & denim designs are made with attention to detail, and relevant for targeted international countries by taking inspiration around the world.
         div(slot="last")
-          img.faded_out(src="/images/optimized/design_concepts_1.jpg" style="--delay: 0.5")
+          img.faded_out(src="/images/optimized/design_concepts_1.webp" style="--delay: 0.5")
 
       Article
         div(slot="first")

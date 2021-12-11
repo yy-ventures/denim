@@ -24,7 +24,7 @@
           h3.moved_down(style="--delay: 0.75") Being a very passionate person about washing, Mostafiz Uddin can be found in the laundry on a regular base.
           p.moved_up(style="--delay: 1") He likes to develop and make the washing recipes on his own ! Scrapings, destroy, whiskers, resin, tints, repairs… he knows it all and has a great expertise with all latest techniques. Sustainability is key to his wash-developments thanks to eco-friendly dye-stuff, less water-consumption and implementation of laser usage wherever possible
         div(slot="last")
-          img.faded_out(src="/images/optimized/wet_processing_1.jpg" style="--delay: 0.5")
+          img.faded_out(src="/images/optimized/wet_processing_1.webp" style="--delay: 0.5")
 
       Article
         div(slot="first")
@@ -38,7 +38,7 @@
 
       Article
         div.moved_right(slot="first" style="--delay: 0.5")
-          img(src="/images/optimized/wet_processing_4.jpg")
+          img(src="/images/optimized/wet_processing_4.webp")
         div.moved_left(slot="last" style="--delay: 0.5")
           h3 This wash innovation is an important added value to each client.
           p In the end, it’s Mostafiz hobby, to create novelty washes, which provides the unique value to the denim products developed and presented in his factory.

@@ -12,10 +12,10 @@
           .img_cont: img(src="/images/optimized/create.jpg" style="--delay: 1.5")
           h3 CREATE
         a.moved_right(href="/expertise/connect" style="--delay: 0.75")
-          .img_cont: img(src="/images/optimized/connect.jpg")
+          .img_cont: img(src="/images/optimized/connect.webp")
           h3 CONNECT
         a.moved_right(href="/expertise/educate" style="--delay: 1")
-          .img_cont: img(src="/images/optimized/educate.jpg")
+          .img_cont: img(src="/images/optimized/educate.webp")
           h3 EDUCATE
         a.moved_right(href="/expertise/transmit" style="--delay: 1.25")
           .img_cont: img(src="/images/optimized/transmit.jpg")

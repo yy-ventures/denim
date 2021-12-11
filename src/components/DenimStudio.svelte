@@ -25,7 +25,7 @@
           h3.moved_down(style="--delay: 0.75") The studio hosts a huge library of fabrics, with a strong focus on sustainable fabrications. 
           p.moved_up(style="--delay: 1") Recycled material, Gots certified, from affordable denim to heritage fabrications.
         div.faded_out(slot="last" style="--delay: 0.5")
-          img(src="/images/optimized/denim_studio_1.jpg")
+          img(src="/images/optimized/denim_studio_1.webp")
 
 
       Article

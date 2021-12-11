@@ -25,11 +25,11 @@
           h3.moved_down(style="--delay: 0.75") In his factory, Mostafiz has always an eye on products. 
           p.moved_up(style="--delay: 1") He can be seen in the sewing stations, washing unit and in the finishing area. Always with helpful advice, sharing his technical know-how with his workers. His point is always to train and uplift the technical know-how of his team.
         div(slot="last")
-          img.faded_out(src="/images/optimized/training_n_development_1.jpg" style="--delay: 0.5")
+          img.faded_out(src="/images/optimized/training_n_development_1.webp" style="--delay: 0.5")
 
       Article
         div.moved_left(slot="first" style="--delay: 0.5")
-          img(src="/images/optimized/training_n_development_2.jpg")
+          img(src="/images/optimized/training_n_development_2.webp")
         div.moved_right(slot="last" style="--delay: 0.5")
           h3 Product samples are the face of the factory. 
           p Product samples are the face of the factory. This is a major point Mostafiz teaches his team. If the first sample made for a customer is great, chances are the order will be placed with the factory. This philosophy is taught and trained by Mostafiz for all members of his team.
