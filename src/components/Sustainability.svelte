@@ -18,7 +18,7 @@
           h3 His factory copes with the higher standards of sustainability.
           p From security to water treatment, his factory is a state of the art Building, where plants grow, and fishes live in the water which is leaving the factory.
         div.moved_right(slot="last" style="--delay: 0.5")
-          img(src="/images/optimized/sustainability_1.jpg")
+          img(src="/images/optimized/sustainability_1.webp")
 
       Article
         div(slot="first")
