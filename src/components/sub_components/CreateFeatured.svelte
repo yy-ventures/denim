@@ -6,7 +6,7 @@
   #create_featured
     Background(image="news_background")
       .grid.two
-        img.faded_out(src="/images/optimized/create_1.jpg" style="--delay: 0.5")
+        img.faded_out(src="/images/optimized/create_1.webp" style="--delay: 0.5")
         img.faded_out(src="/images/optimized/create_2.webp" style="--delay: 0.75")
       .grid.three
         a.center.moved_left(href="/expertise/create/denim-studio" style="--delay: 0.75")

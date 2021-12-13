@@ -48,7 +48,7 @@
           h3 Creating washes is a continuous process for Mostafiz Uddin.
           p He constantly travels to see and understand what is going on in this world, as much in terms of product in the stores, and also when seeing denim at international fashion shows and fashion fairs. All he sees and notes, is of inspiration for his next developments.
         div.moved_left(slot="last" style="--delay: 0.5")
-          img(src="/images/optimized/wet_processing_5.jpg")
+          img(src="/images/optimized/wet_processing_5.webp")
           h3 USA-2012
 
 </template>

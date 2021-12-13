@@ -33,7 +33,7 @@
           img.faded_out(src="/images/optimized/denim_studio_2.jpg" style="--dealy: 0.5")
           p.faded_out(style="--delay: 0.75") Mostafiz Uddin personally updates all samples & designs with the latest fits, patterns, fabrications and innovation in washes.
         div(slot="last")
-          h3.faded_out(style="--delay: 1") The studio is open to clients and invitees .
+          h3.faded_out(style="--delay: 1") The studio is open to clients and invitees.
           p.faded_out(style="--delay: 1.25") It archives over 4000 samples making it a state-of-the-art studio. Inspirational brainstorming & fruitful work sessions are key occupations in the denim studio.
           img.faded_out(src="/images/optimized/denim_studio_3.jpg" style="--delay: 1.5")
 

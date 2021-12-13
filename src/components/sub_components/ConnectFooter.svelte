@@ -1,6 +1,6 @@
 <template lang="pug">
   .container
-    img(src="/images/connect_footer.png")
+    img(src="/images/optimized/connect_footer.jpg")
     .stats.grid.four
       .stat.moved_left(style="delay: 0.5")
         h1 11

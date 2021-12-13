@@ -11,9 +11,9 @@
       p.faded_out(style="--delay: 0.5") Bangladesh Denim Academy is an educational platform established by Mostafiz Uddin to guide & educate denim industry professionals. The program consists of workshops, masterclasses & seminars. Specifically made for professionals working in factories or in the field of denim, the aim of the academy is to uplift the knowledge of the local professionals.
     Background(image="about_background")
       .grid.two
-        img.moved_left(src="/images/optimized/educate_1.jpg" style="--delay: 0.5")
+        img.moved_left(src="/images/optimized/design_concepts_1.webp" style="--delay: 0.5")
         img.moved_right(src="/images/optimized/educate_2.jpg" style="--delay: 0.75")
-        img.moved_left(src="/images/optimized/educate_3.jpg" style="--delay: 0.5")
+        img.moved_left(src="/images/optimized/educate.webp" style="--delay: 0.5")
         img.moved_right(src="/images/optimized/educate_4.jpg" style="--delay: 0.75")
 </template>
 

@@ -28,8 +28,8 @@
       .grid.two
         img.moved_left(src="/images/optimized/connect_1.jpg" style="--delay: 0.5")
         img.moved_right(src="/images/optimized/connect_2.jpg" style="--delay: 0.75")
-        img.moved_left(src="/images/optimized/connect_3.jpg" style="--delay: 0.5")
-        img.moved_right(src="/images/optimized/connect_4.jpg" style="--delay: 0.75")
+        img.moved_left(src="/images/optimized/connect_3.webp" style="--delay: 0.5")
+        img.moved_right(src="/images/optimized/connect_4.webp" style="--delay: 0.75")
     Footer
 </template>
 
