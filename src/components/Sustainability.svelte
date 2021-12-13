@@ -22,7 +22,7 @@
 
       Article
         div(slot="first")
-          img.faded_out(src="/images/optimized/sustainability_2.jpg" style="--delay: 0.5")
+          img.faded_out(src="/images/optimized/sustainability_2.webp" style="--delay: 0.5")
           p.faded_out(style="--delay: 0.75") His factory has been recognized as 'New Champion' by the World Economic Forum (WEF) for its extraordinary performance in sustainability and inclusivity.
         div(slot="last")
           h3.faded_out(style="--delay: 1") Special care is given to all workers and managers,
@@ -31,7 +31,7 @@
 
       Article
         div.moved_left(slot="first" style="--delay: 0.5")
-          img(src="/images/optimized/sustainability_4.jpg")
+          img(src="/images/optimized/sustainability_4.webp")
         div.moved_right(slot="last" style="--delay: 0.5")
           h3 Mostafiz Uddin works personally on all latest denim developments,
           p which are based on recycled material and cradle-to-cradle projects. These developments can be of great benefit for his clients
