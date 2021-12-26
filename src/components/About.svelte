@@ -21,7 +21,7 @@
   #about
     Title(content="about")
     Background(image="about_header")
-      h2.moved_down(style="--delay: 1") A selfless promoter of Bangladesh’s apparel industry, with an innate desire to change the game.
+      h2.moved_down(style="--delay: 1") A selfless promoter of Bangladesh’s apparel industry, with an innate desire to change the game
 
     Background(image="about_background")
 
@@ -64,7 +64,7 @@
         padding: 1em 0
         @include underline
         &:after
-          margin: 0 auto
+          left: 0
           width: 15%
           height: 0.10em
 

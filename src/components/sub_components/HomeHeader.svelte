@@ -7,7 +7,7 @@
     img(src="/images/optimized/home_header_1.jpg")
     Background(image="home_header_2")
       .content
-        p.faded_out(style="--delay: 1") Denim is my true passion. From the early days in the industry, till today, I do emphasize on bringing my part to denim at all levels. I boldly invest time into denim-fabric, design, development and washing, enabling my team and clients to take advantage of this. Let me take you through a presentation of my <br/> denim universe.
+        p.faded_out(style="--delay: 1") Denim is my true passion. From the early days in the industry, till today, I do emphasize on bringing my part to denim at all levels. I boldly invest time into denim-fabric, design, development and washing, enabling my team and clients to take advantage of this. Let me take you through a presentation of my denim universe.
         h3.moved_down(style="--delay: 2") MOSTAFIZ UDDIN
 </template>
 

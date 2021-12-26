@@ -22,7 +22,7 @@
 
       Article
         div(slot="first")
-          h3.moved_down(style="--delay: 0.75") The studio hosts a huge library of fabrics, with a strong focus on sustainable fabrications. 
+          h3.moved_down(style="--delay: 0.75") The studio hosts a huge library of fabrics, with a strong focus on sustainable fabrications 
           p.moved_up(style="--delay: 1") Recycled material, Gots certified, from affordable denim to heritage fabrications.
         div.faded_out(slot="last" style="--delay: 0.5")
           img(src="/images/optimized/denim_studio_1.webp")
@@ -33,7 +33,7 @@
           img.faded_out(src="/images/optimized/denim_studio_2.jpg" style="--dealy: 0.5")
           p.faded_out(style="--delay: 0.75") Mostafiz Uddin personally updates all samples & designs with the latest fits, patterns, fabrications and innovation in washes.
         div(slot="last")
-          h3.faded_out(style="--delay: 1") The studio is open to clients and invitees.
+          h3.faded_out(style="--delay: 1") The studio is open to clients and invitees
           p.faded_out(style="--delay: 1.25") It archives over 4000 samples making it a state-of-the-art studio. Inspirational brainstorming & fruitful work sessions are key occupations in the denim studio.
           img.faded_out(src="/images/optimized/denim_studio_3.jpg" style="--delay: 1.5")
 
@@ -41,7 +41,7 @@
         div.moved_right(slot="first" style="--delay: 0.5")
           img(src="/images/optimized/denim_studio_4.webp")
         div.moved_left(slot="last" style="--delay: 0.5")
-          h3 Wash innovation is an important added value to each client.
+          h3 Wash innovation is an important added value to each client
           p The studio is the place where Mostafiz Uddin shares his in-depth know-how of denim. One-on-one sessions with clients, team trainings, or larger seminars are held in the denim studio.
 
 </template>

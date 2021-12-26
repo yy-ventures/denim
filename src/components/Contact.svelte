@@ -17,7 +17,7 @@
     
     h5
       text-align: center
-      color: black
+      color: white
       font-family: Lora
       font-size: 1.5rem
       line-height: 0

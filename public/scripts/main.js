@@ -63,19 +63,20 @@ add_class_on_focus({
 
 const lightbox = new FsLightbox();
 lightbox.props.sources = [
-  '/images/news_1.jpg',
-  '/images/news_2.jpg',
-  '/images/news_3.jpg',
   '/images/news_4.jpg',
-  '/images/news_5.jpg',
-  '/images/news_6.jpg',
-  '/images/news_7.jpg',
+  '/videos/bbc.mp4',
+  '/images/news_13.webp',
   '/images/news_8.jpg',
+  '/images/news_6.jpg',
+  '/images/news_5.jpg',
   '/images/news_9.jpg',
   '/images/news_10.jpg',
   '/images/news_11.jpg',
   '/images/news_12.jpg',
-  '/videos/bbc.mp4'
+  '/images/news_1.jpg',
+  '/images/news_2.jpg',
+  '/images/news_3.jpg',
+  '/images/news_7.jpg'
 ];
 
 doms('#news .grid *').forEach((dom) => {
