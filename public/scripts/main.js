@@ -54,6 +54,7 @@ const toggle_navigation_on_scroll = () => {
     window.position_old = window.scrollY;
   });
 };
+
 /*}}}*/
 
 add_class_on_focus({
@@ -85,7 +86,7 @@ doms('#news .grid *').forEach((dom) => {
   };
 });
 
-toggle_navigation_on_scroll();
+// toggle_navigation_on_scroll();
 
 // add_class_on_focus({
 //   'move_back': ['.moved_right', '.moved_left', '.moved_down'],
